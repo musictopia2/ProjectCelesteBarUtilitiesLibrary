@@ -1,0 +1,12 @@
+﻿global using ProjectCelesteBarUtilitiesLibrary.Extensions;
+global using System.Collections.ObjectModel;
+global using System.Text;
+global using ProjectCelesteBarUtilitiesLibrary.Misc;
+global using System.Buffers;
+global using System.IO.Compression;
+global using System.Diagnostics.CodeAnalysis;
+global using Celeste.GameFiles.Tools.Extensions;
+global using ProjectCeleste.GameFiles.Tools.Bar;
+global using ProjectCelesteBarUtilitiesLibrary.Bar;
+global using ProjectCelesteBarUtilitiesLibrary.L33TZip;
+global using ProjectCelesteBarUtilitiesLibrary.Xmb;
